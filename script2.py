@@ -1,2 +1,2 @@
 print("Hello World")
-print("Está é a alteração de Mary.")
+print("Esta é a alteração de John.")
